@@ -1,0 +1,19 @@
+{
+  "name": "techmasterassignment1",
+  "version": "1.0.0",
+  "description": "node exercise no1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kukumbing/TechmasterAssignment1.git"
+  },
+  "author": "Quy Vu Minh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kukumbing/TechmasterAssignment1/issues"
+  },
+  "homepage": "https://github.com/kukumbing/TechmasterAssignment1#readme"
+}
