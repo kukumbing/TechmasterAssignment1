@@ -66,7 +66,7 @@ module.exports = {
                 var temp = text.split(" ");
                 var shortest = temp[0];
                 for(var i =0;i<temp.length;i++){
-                    if(temp[i].length<shortest.length && temp[i].length!=" "){
+                    if(temp[i].length<shortest.length && temp[i].length!=0){
                         shortest = temp[i];
                     }
                 }
